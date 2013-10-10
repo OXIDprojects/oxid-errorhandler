@@ -3,7 +3,7 @@
 $sMetadataVersion = '1.1';
 
 $aModule = array(
-    'id'           => 'agintraship',
+    'id'           => 'agerrorhandler',
     'title'        => 'Better Error Handler',
     'description'  => 'Shows better error messages',
     'version'      => '1.0',
